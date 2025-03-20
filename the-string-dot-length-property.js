@@ -20,11 +20,13 @@ let stringTwo = "JavaScript";
 let stringThree = "";
 
 // Your task: Assign the length of each string to the corresponding variable
-let lengthOne;   // Length of stringOne
-let lengthTwo;   // Length of stringTwo
-let lengthThree; // Length of stringThree
+let lengthOne = 15; // Length of stringOne
+let lengthTwo = 10;   // Length of stringTwo
+let lengthThree = 0; // Length of stringThree // I think this is reading 0 because there's not even a space or anything! 
 
 // Your code here
-
+console.log(stringOne.length);
+console.log(stringTwo.length);
+console.log(stringThree.length);
 
 
